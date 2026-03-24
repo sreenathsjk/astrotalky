@@ -1,4 +1,5 @@
- 🔮 AstroAI India
+## Update
+🔮 AstroAI India
 
 «🚀 AI-powered Vedic Astrology Platform with Firebase + OpenAI
 Built for India 🇮🇳 with real-time predictions, OTP login, and scalable architecture.»
